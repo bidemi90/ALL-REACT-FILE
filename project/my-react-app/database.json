@@ -1,0 +1,1607 @@
+{
+  "admin_details": {
+    "adminId": "ADM001",
+    "profil_img": "data:image/jpeg;base64,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",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "role": "Admin",
+    "department": "Administration",
+    "phone": "123-456-7890",
+    "school": {
+      "name": "ABC School",
+      "address": "123 Main Street",
+      "city": "City",
+      "state": "State",
+      "country": "Country",
+      "phone": "+9876543210",
+      "email": "info@abcschool.com",
+      "website": "https://www.abcschool.com",
+      "foundedYear": 1990,
+      "principal": "John Doe"
+    }
+  },
+  "junior_class": [
+    {
+      "id": 1,
+      "name": "junior secondary school 1",
+      "subjects": [
+        "English Language",
+        "Mathematics",
+        "Basic Science",
+        "Basic Technology",
+        "Social Studies",
+        "Business Studies",
+        "Agricultural Science",
+        "Physical and Health Education",
+        "Christian Religious Studies",
+        "Islamic Religious Studies",
+        "French",
+        "Yoruba",
+        "Hausa",
+        "Igbo",
+        "Civic Education"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "junior secondary school 2",
+      "subjects": [
+        "English Language",
+        "Mathematics",
+        "Basic Science",
+        "Basic Technology",
+        "Social Studies",
+        "Business Studies",
+        "Agricultural Science",
+        "Physical and Health Education",
+        "Christian Religious Studies",
+        "Islamic Religious Studies",
+        "French",
+        "Yoruba",
+        "Hausa",
+        "Igbo",
+        "Civic Education"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "junior secondary school 3",
+      "subjects": [
+        "English Language",
+        "Mathematics",
+        "Basic Science",
+        "Basic Technology",
+        "Social Studies",
+        "Business Studies",
+        "Agricultural Science",
+        "Physical and Health Education",
+        "Christian Religious Studies",
+        "Islamic Religious Studies",
+        "French",
+        "Yoruba",
+        "Hausa",
+        "Igbo",
+        "Civic Education"
+      ]
+    }
+  ],
+  "students_junior_1": [
+    {
+      "enable": false,
+      "id": 1,
+      "student_id": "ABC 001",
+      "name": "Sodiq Abdulahi",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 32,
+      "gender": "female",
+      "grade": "10",
+      "address": "20 unity quarter",
+      "phone": "20 unity quarter",
+      "guardian": {
+        "name": "Sodiq Abdulahi",
+        "relation": "fdfdfdfdf",
+        "phone": 8083135400,
+        "email": "sodiqabdullahi431@gmail.com"
+      },
+      "class": {
+        "name": "junior secondary school 1",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 2,
+      "student_id": "ABC 002",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 1",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 3,
+      "student_id": "ABC 003",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "address": "123 Main Street, City",
+      "phone": "123 Main Street, City",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 1",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": false,
+      "id": 6,
+      "student_id": "ABC 006",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123 Main Street, City",
+      "guardian": {
+        "name": "Sodiq Abdullahi",
+        "relation": "fdfdfdfdf",
+        "phone": 9031896616,
+        "email": "sodiqabdullahi431@gmail.com"
+      },
+      "class": {
+        "name": "junior secondary school 1",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    }
+  ],
+  "students_junior_2": [
+    {
+      "enable": false,
+      "id": 1,
+      "student_id": "ABC 001",
+      "name": "Sodiq Abdulahi",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 32,
+      "gender": "female",
+      "grade": "10",
+      "address": "20 unity quarter",
+      "phone": "20 unity quarter",
+      "guardian": {
+        "name": "Sodiq Abdulahi",
+        "relation": "father",
+        "phone": 8083135400,
+        "email": "sodiqabdullahi431@gmail.com"
+      },
+      "class": {
+        "name": "junior secondary school 2",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 2,
+      "student_id": "ABC 002",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 2",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 3,
+      "student_id": "ABC 003",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMREREREREREBAREREQEBERFhERERAQFhIYGRYTFhYaHysiGhwoHRkWIzQjKCwuMTExGSE3PDcwOyswMS4BCwsLDw4PHBERHDAhHyAwMDAwMDAwMDAwMDAwMDAuLjAwMDAuMDAwLjAwMDAwMDAwMDAwMDAuMDAuMDAwLjAwMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABQIDBAYHAQj/xABBEAACAgEBBAUHCwIFBQEAAAAAAQIDEQQFEiExBkFRYXEHEyJSgZGhFBYjMjNCcoKSscGy0UNEU2Lwk7PS4fEk/8QAGwEBAAMBAQEBAAAAAAAAAAAAAAECBAMFBgf/xAA1EQACAQMDAgMFBwMFAAAAAAAAAQIDBBESITFBUQVhkRMUU6HRFSJxgZKx8EJDUjLB0uHx/9oADAMBAAIRAxEAPwDqQAPFNoAAAAAAAAAAAAAAABY1euqpWbba6l22SjBfFkbZ0v0K/wAzW/w70/6UyVFvhZIylyTIIirpXopctVSvxtw/qSJPT6iFi3q5xsj60GpL3oOLXKCafBcABBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMXau0Iaem2614rqg5y7Xjkl3t4XtJW+yBY2/t2jRVedvsUI8oRXGdkvVhHrfwXWcs6ReU/UXtxofyWnklDDukv90/u/lx4s1vpPtu7W3yvvfPKqr+7VXnhFfy+sg7rD0KVvGH+rdmaU2+OCSu2495yeZzfOU25Sfi2WvnHPuIecu8ttrtNOSmDY6Okj+8kyW2btmO8pVzlTZ1Srk4P3o0bPeV13NcmQMHbdh9O7qsLUr5RV/qwUY3QXa0sKa9z8TfNBrq76421TjZXLlKPxTXNPufE+a9m7enW+Lyjd+h3S1UWqyDfmptK+nqkvXivWXx5GarbKSzDZnSNRrk7ICmE1JKUWnGSTTXJprKZUeeaAAAAAAAAAAAAAAAAAAAAAAAAAAADxvHF8Eub7Dj/AE36YXbQ1K0Gji7KvOKEYRwvPyi8ynJvlFY4dXDLNt8rPSP5LpXVCWLb045XONf3n7eRF+Rvo0qNO9dbH6bUr6LP+Hp88MfixnwUTbb09MfaP8jlL7z0mJszySysxLV6jdzx81Qlw7nZJcfZH2mx6Dya7Nq/y6tfbbKdufY3j4Gz7x7vHZyZZRS6GDpejmlq4V6eiH4a4L+DMhoq1yhFeCSK1M9UyC2WeS0Vb5wg/FJmHqujOjt+10mns/FVW378GeplakSVeTUto+SvZl2cUOmT+9ROcMfleY/A1HbfkavpzZoNQrkuPmbsV2NY5RmvRk/FROuKRUpF0yjRzPyXdM5Sxo9S2pQxVHf9GdVi9FVy7m01x4prHXw6Ucr8r+w/kuoq2nSsV2SVOsUeqT+pZw7UsN9sY9pvXQ7bPyrTQm3myCULO9pcJe1cTJc0v61+f1JhLH3WTQAMh1AAAAAAAAAAAAAAAAAAAAAABF9Ktf5jR329ca5KP4peiviyYrU1FdSG8LJyPplbLam1atPFvdsuVSx92mPGyS8Em/ynY664wjGEUowjFRjFcoxSwkvYcr8lmlTt1O07sxo08HTXNrKlZLjZJdrSwuHrkvrfLBooycYVamxp4yoQivjLPwPVkt8JbI5U2kt3uzfHIxrtqUwe7O6qMvVlOCfubOQ9LfKPbqvo6PO6anHpRThG2x/7pKWcdy9uTTpzb479q/R/5FVT7lpVd9kfS0Lk0mmmnyaeUy4pnG+h3T6rQ0KmyOqte+5OWK3FZSW7Fb3Lh72zYavK7onzjqI+MIv9pFXGXQspxa3Z0RTPbNRGC3pyjCK5uTUV72c8l5YNEuVepl4Qgv3maf0+6XR2lKmVS1NSrUluy3N2W9jjhT58CVF53IlKONnk7lptfVZ9nbXZ+CUZfszJUj5m0e1baWpKyzhxWdzh4POUb90d8r3m69zU1W3Yxu2QcHJLrUvS4/v4ltPYopp7M6X0m2VHWaS/TSx9NVKMW/u2LjCXskov2HMfI5tl13/JrMxk80yi+asi8LPf1ew2TZfle0F04wkr6HJ4TshHdz2ZjJmkdOtNLZm2VqYJqnUTjqYSX1d6T+kSfJ+ll+EkSo6k4vqVk1s10O5gt6W5WQhYuU4RmvCSyi4eTwaAAAAAAAAAAAAAAAAAAAAAAaX5YdUoaDcckvOXVqXbuJSk38EblZPdTfYmzknlW1Up0Sy8+k8/plwNFtDM0+xE1mEn2RvG1Z16vSxp0sJKiVcfNWRgo1bmE4uCeG17DhnSPo/Zo9XOizDbSshJcpQk3h+9New710Shu6DRJclpaP8AtRNO8sWyd75NqkuEHLT2NdSniVbf5lKPjNG7U29zk6cUsnLPNY6i0nxJBxMN1PJOSjR44priSXRzoz8sld9IqoVSSy1vb0m36KWVyS+KI+ySisv/AOnSOhGxXXRCNie/PN1vU1KX1YvvUUslJywtjrSp65YfBz/b+wnpL41OSnGUVNSScd5ceGPFFmUsLgbr5Q9n5jC1L7CW7Prfmp8G/Y8P2mlzh1PmhF5RFSOiTRbqnxw+OTKjVGOZNLimvEtwpxiXP/nULnwbb5IuURf2BsT5TfOW9uV1bk5NLebk+Kil34fE6t0m6TaW3ZWqovjKM/MTVPna3KDuUfo3GSylLexhvBZ8lWwVDRQtsj6eok7VnGVXhRr98Yp/mMzyt0RWyL8JLE6Mf9eC/khTaljoXdOOjL5Jryc6p27L0Um8yVEYS7cwbjx9xsBznyW61w01C+76aa7Y+ekvgdGPPrw0zb75OiWEvwQABxJAAAAAAAAAAAAAAAAAAKbIbya7U0c36fdHLdRVKuvd31LOJNpNYa547zpRav00Z/WWe/rO1KroJWMNPhkX0c0sqtHparMecr09MJ44rejWk8Fzauz69RTZRdHfqti4zjy4dqfU08NPuM+VajGKXJLCLTNmeqKnJtp+S7U1yfye+m6vLx55yrtS6k2ouMn38CNn5PtoZ410Lv8AO8P6Ts0kWJRDmyPZo5r0f8nDhZG3VTjZKDTjVXl1qS5OTf1vDC9pudGn3U+HFvOSTsSSbeElxbfJIi4dItHL6us0r8Lqc/1HN5bO8MQ4MLWaFSc/OJSU04yi+KcWsNM0jafQK1S//NZCVf3a7XJSgvVU0nvLxN/e2dJZNVw1WnnZJ7sYRtqlOUn1JJ5yX/kvEJuIkoz5OX09BddJ4UKfF28P6Sd2H5LpynGetsg4RefM077853Tm0sLuS9pv2mqwZcS+tnL2US/TFRSSSSSSSXBJLkkuwgfKVs6zU7OtopSdk504y8LEbFJ8fYTkGZEtMrIbsm0sp8OD4EZ0rV2Dx1NM6DbDnRTTTNp2RTc93OFmbk/ZxN9LWm0sK1iEcZ5vm34tl0yVamtkt546AAHIgAAAAAAAAYAAAAAAAAAAAABTNZRjyMpFm+BtoS1Rx1RXqY0i1IuyLUi7R0LczB1OzaJvM6KZvtnXCT97RnyLMyCxjUaSqv7Oquv8EIQ/ZF1HkmU7xGCS/BlamYvnCqMyyRBnVvJI0rCRgaGrLJI513pjp7nN7sAAxgAAAAAAAAAAAAAAAAAAAAAAAAHjWT0Exk4vKBi314MaRJSjnmYOrp3ePUb6dWFTyYTZiTkWpsqsmY07DphF0JstuR5K1Ft3IsooZLi4mdodM5PgNmaB2JSfCPV2vwJqqtRWIrCOdWtCntHd/Io22Ka1FYRWAedKTk8sAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAFrXQ3k0m49mD2/URgsykl+5re0elMYWfVbh2p8V346z0vD7epV1OMcrHP+387GO6u6dBrVLDK9Zpb1y3J++D93FERdrJRluzi4y7Hjl256yWq6T0zX2kc9k/RfxIDpHtGEpw3HGUoqed1p4T3cfyda1vKkstNGm2uVVeFh+aLtcLrnu1JvHN8El4tkpoOjdmU7bEu6OW/eRuwdtxpps35xU3YsKTS9DdXH35L1nSrPCOZfh5e8vQtZVUmlkpc3iotptLHX/03XTKMI7mc4XArNa2DtnLbsWM8F14NirmpLMWmu4y+IUJ0prVHCxycbS5p103CWSsAHnmwAAAAAAAAAAAAAAAAAAAAAAAAAotsUU5SeEuLNZ2tt7ebUXhdiNlnY1LqX3dkuX/OTDe39K1jmfL4RO6nadcOvefd/ch9b0ifHdxFd3P3mvX62UjFnJvmz6S38IoU92tT89/lx8j5mv45WqbQ2XlsZev2rKeeLfeRN02+Zeki24HrRgorY8t1ZTeZGJKlMu6TZ6e9Llj9ur+S6oGTpuEZvuf7My+ILVbTXln0eT0vCarje0vN49U0Yca1Lq717jKrgRC2ZOd1d6t3YKEPRw89vB5wk89hMRL2ycaUYtYwljz2W/lv0M3ik1O5nNS1ZbztjG7WPPYyaLXHkSui2lKPJtMholyLLzhGS3PPp150nmLNu0u2397D+DJKjWQnyeH2M0eq9ozdPqn2nkXHhNGe6Wl+X04/Y9y18dqx2k9S8/qbmCF2dtbioyeV+xMp5Pnbq1nby0y4fD7n1NreU7mGqHTldj0AGY1AAAAAAAAAjAAAJAAAAB6iG8EpZNd6Wa/dxVF/i/j/AJ3mrSZmbY1HnLrJdTbx4LkYLPvLK3VChGn1xv8Aj1PzfxC5dzczqdM4X4Lj6nhSz1spbNZlR4ynB6e8vEF0ijB657sLH/tk/gwzx4aafFNYalyaOdaHtKcod016o0Wtb2NeFXnTJP0eSL0+y5eejc7ZY83D0Mcfq4xnP1e7BLJlJd2RtGNOqonP7NOzewsv7KWMe3A0KnF6Fnl47v58l3Od3ViqksLjPZc+XBVHPZ8GXoVy9V/E3CrpXpnznKP4l/bJVPpVplyslPujF/8Aoxe91849i/n9DZ9nWeM+8x+X/I05dnJl6M8Fzbe0I23TsgniSjweE84w+XgYakbI5lFNrHkeNVgqc2oPUk9n3MhXNPgza+jmu85W4v60P5NOyS3RnUbl0V1TypeLX9zF4lbqrbSXVbr8v+jd4PdSoXcN/uyel/nx88G4AA+LP0IAAAAAAAAAAAAAAAFjaFu7VN9keHjjCL5F9KJ400+/d/fP8He1h7SvCHeS/czXlX2VvUqf4xk/RGlSZbkVyZakz74/NYo8kyls8kyhyLJHVIuN45FDZQ5HmQi+CvI3ijIySMFTkYWpl9LV+P8AhmS5GHqZYnCT5KSb8AdaUdyTjI9UyOe0oLr+D/sFtSPY/wBM/wCxGCvsJ9iSc/S9iL0ZGBTdvYlhrhjiZMZENHGcMbGQpF/S3bsoyXNP+TEjIrjIjCezOLzHdco6TGWUmuTSZUY+zZb1Vb7YoyD88nHTJx7Nr0P1KE9cVLuk/UAAqWAAAAAAAAAAAABG9JqnLTTx91xfsT4/AkimcFJOLWU000+tPqOtCp7KpGov6Wn6M43NH21GdL/JNeqwc1kyzORO7b6PzqblDM6+eebiuxo1+w+8oVoVo66byv5z2Z+d1bepbz0VVh/v+HdFMpltyEihnclI9chvFLR4C2CreG8UHqi2CcHuclNsEVNpcihogstijzS7CpRQBI5LsZlcbTFG8CNCZnxtL1U8kXCbbSSbb4JLi2zb+i3RmxuNuoi4Ri1KNcvryfVldXg+Jnubinbw11Hjsur8l/NuXsXoWNS4nopr8+i/E23QQca60+aik/HrMg9PD4CUnJuT5bz6n6BGKilFdNgACCwAAAAAAAAAAAAAAAMbUbPqs4zrhN9rSz7+ZkgmMnF5i8PyIlFSWGsoiJ9FtI/8HHhKxfyWn0R0nqS/UycBpV9dL+7L9T+pmdjav+1H9K+hBfM/SerP9bHzO0nqz/WydBP2hd/Fl6sj3C1+HH0RBfM7SerP9bC6H6X1Z/qZOgfaF18WXqPcLX4cfRED8zdJ6s/1sfM3SepP9bJ4D7Qu/iy9R7ha/Dj6IgfmbpPUn+pnvzO0nqS/UydA+0Lr4svVj3C1+HH0RBfM7Sf6Tf5mXodFNHH/AAE/xSsl+7JcEO+uXzVl+p/UlWVsuKcf0r6GPptDXX9nXCHelFP3mQAZm3J5e7NKSSwgACCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAf/2Q==",
+      "age": 15,
+      "gender": "Male",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 2",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 4,
+      "student_id": "ABC 004",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 2",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": false,
+      "id": 6,
+      "student_id": "ABC 006",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMREREREREREBAREREQEBERFhERERAQFhIYGRYTFhYaHysiGhwoHRkWIzQjKCwuMTExGSE3PDcwOyswMS4BCwsLDw4PHBERHDAhHyAwMDAwMDAwMDAwMDAwMDAuLjAwMDAuMDAwLjAwMDAwMDAwMDAwMDAuMDAuMDAwLjAwMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABQIDBAYHAQj/xABBEAACAgEBBAUHCwIFBQEAAAAAAQIDEQQFEiExBkFRYXEHEyJSgZGhFBYjMjNCcoKSscGy0UNEU2Lwk7PS4fEk/8QAGwEBAAMBAQEBAAAAAAAAAAAAAAECBAMFBgf/xAA1EQACAQMDAgMFBwMFAAAAAAAAAQIDBBESITFBUQVhkRMUU6HRFSJxgZKx8EJDUjLB0uHx/9oADAMBAAIRAxEAPwDqQAPFNoAAAAAAAAAAAAAAABY1euqpWbba6l22SjBfFkbZ0v0K/wAzW/w70/6UyVFvhZIylyTIIirpXopctVSvxtw/qSJPT6iFi3q5xsj60GpL3oOLXKCafBcABBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMXau0Iaem2614rqg5y7Xjkl3t4XtJW+yBY2/t2jRVedvsUI8oRXGdkvVhHrfwXWcs6ReU/UXtxofyWnklDDukv90/u/lx4s1vpPtu7W3yvvfPKqr+7VXnhFfy+sg7rD0KVvGH+rdmaU2+OCSu2495yeZzfOU25Sfi2WvnHPuIecu8ttrtNOSmDY6Okj+8kyW2btmO8pVzlTZ1Srk4P3o0bPeV13NcmQMHbdh9O7qsLUr5RV/qwUY3QXa0sKa9z8TfNBrq76421TjZXLlKPxTXNPufE+a9m7enW+Lyjd+h3S1UWqyDfmptK+nqkvXivWXx5GarbKSzDZnSNRrk7ICmE1JKUWnGSTTXJprKZUeeaAAAAAAAAAAAAAAAAAAAAAAAAAAADxvHF8Eub7Dj/AE36YXbQ1K0Gji7KvOKEYRwvPyi8ynJvlFY4dXDLNt8rPSP5LpXVCWLb045XONf3n7eRF+Rvo0qNO9dbH6bUr6LP+Hp88MfixnwUTbb09MfaP8jlL7z0mJszySysxLV6jdzx81Qlw7nZJcfZH2mx6Dya7Nq/y6tfbbKdufY3j4Gz7x7vHZyZZRS6GDpejmlq4V6eiH4a4L+DMhoq1yhFeCSK1M9UyC2WeS0Vb5wg/FJmHqujOjt+10mns/FVW378GeplakSVeTUto+SvZl2cUOmT+9ROcMfleY/A1HbfkavpzZoNQrkuPmbsV2NY5RmvRk/FROuKRUpF0yjRzPyXdM5Sxo9S2pQxVHf9GdVi9FVy7m01x4prHXw6Ucr8r+w/kuoq2nSsV2SVOsUeqT+pZw7UsN9sY9pvXQ7bPyrTQm3myCULO9pcJe1cTJc0v61+f1JhLH3WTQAMh1AAAAAAAAAAAAAAAAAAAAAABF9Ktf5jR329ca5KP4peiviyYrU1FdSG8LJyPplbLam1atPFvdsuVSx92mPGyS8Em/ynY664wjGEUowjFRjFcoxSwkvYcr8lmlTt1O07sxo08HTXNrKlZLjZJdrSwuHrkvrfLBooycYVamxp4yoQivjLPwPVkt8JbI5U2kt3uzfHIxrtqUwe7O6qMvVlOCfubOQ9LfKPbqvo6PO6anHpRThG2x/7pKWcdy9uTTpzb479q/R/5FVT7lpVd9kfS0Lk0mmmnyaeUy4pnG+h3T6rQ0KmyOqte+5OWK3FZSW7Fb3Lh72zYavK7onzjqI+MIv9pFXGXQspxa3Z0RTPbNRGC3pyjCK5uTUV72c8l5YNEuVepl4Qgv3maf0+6XR2lKmVS1NSrUluy3N2W9jjhT58CVF53IlKONnk7lptfVZ9nbXZ+CUZfszJUj5m0e1baWpKyzhxWdzh4POUb90d8r3m69zU1W3Yxu2QcHJLrUvS4/v4ltPYopp7M6X0m2VHWaS/TSx9NVKMW/u2LjCXskov2HMfI5tl13/JrMxk80yi+asi8LPf1ew2TZfle0F04wkr6HJ4TshHdz2ZjJmkdOtNLZm2VqYJqnUTjqYSX1d6T+kSfJ+ll+EkSo6k4vqVk1s10O5gt6W5WQhYuU4RmvCSyi4eTwaAAAAAAAAAAAAAAAAAAAAAAaX5YdUoaDcckvOXVqXbuJSk38EblZPdTfYmzknlW1Up0Sy8+k8/plwNFtDM0+xE1mEn2RvG1Z16vSxp0sJKiVcfNWRgo1bmE4uCeG17DhnSPo/Zo9XOizDbSshJcpQk3h+9New710Shu6DRJclpaP8AtRNO8sWyd75NqkuEHLT2NdSniVbf5lKPjNG7U29zk6cUsnLPNY6i0nxJBxMN1PJOSjR44priSXRzoz8sld9IqoVSSy1vb0m36KWVyS+KI+ySisv/AOnSOhGxXXRCNie/PN1vU1KX1YvvUUslJywtjrSp65YfBz/b+wnpL41OSnGUVNSScd5ceGPFFmUsLgbr5Q9n5jC1L7CW7Prfmp8G/Y8P2mlzh1PmhF5RFSOiTRbqnxw+OTKjVGOZNLimvEtwpxiXP/nULnwbb5IuURf2BsT5TfOW9uV1bk5NLebk+Kil34fE6t0m6TaW3ZWqovjKM/MTVPna3KDuUfo3GSylLexhvBZ8lWwVDRQtsj6eok7VnGVXhRr98Yp/mMzyt0RWyL8JLE6Mf9eC/khTaljoXdOOjL5Jryc6p27L0Um8yVEYS7cwbjx9xsBznyW61w01C+76aa7Y+ekvgdGPPrw0zb75OiWEvwQABxJAAAAAAAAAAAAAAAAAAKbIbya7U0c36fdHLdRVKuvd31LOJNpNYa547zpRav00Z/WWe/rO1KroJWMNPhkX0c0sqtHparMecr09MJ44rejWk8Fzauz69RTZRdHfqti4zjy4dqfU08NPuM+VajGKXJLCLTNmeqKnJtp+S7U1yfye+m6vLx55yrtS6k2ouMn38CNn5PtoZ410Lv8AO8P6Ts0kWJRDmyPZo5r0f8nDhZG3VTjZKDTjVXl1qS5OTf1vDC9pudGn3U+HFvOSTsSSbeElxbfJIi4dItHL6us0r8Lqc/1HN5bO8MQ4MLWaFSc/OJSU04yi+KcWsNM0jafQK1S//NZCVf3a7XJSgvVU0nvLxN/e2dJZNVw1WnnZJ7sYRtqlOUn1JJ5yX/kvEJuIkoz5OX09BddJ4UKfF28P6Sd2H5LpynGetsg4RefM077853Tm0sLuS9pv2mqwZcS+tnL2US/TFRSSSSSSSXBJLkkuwgfKVs6zU7OtopSdk504y8LEbFJ8fYTkGZEtMrIbsm0sp8OD4EZ0rV2Dx1NM6DbDnRTTTNp2RTc93OFmbk/ZxN9LWm0sK1iEcZ5vm34tl0yVamtkt546AAHIgAAAAAAAAYAAAAAAAAAAAABTNZRjyMpFm+BtoS1Rx1RXqY0i1IuyLUi7R0LczB1OzaJvM6KZvtnXCT97RnyLMyCxjUaSqv7Oquv8EIQ/ZF1HkmU7xGCS/BlamYvnCqMyyRBnVvJI0rCRgaGrLJI513pjp7nN7sAAxgAAAAAAAAAAAAAAAAAAAAAAAAHjWT0Exk4vKBi314MaRJSjnmYOrp3ePUb6dWFTyYTZiTkWpsqsmY07DphF0JstuR5K1Ft3IsooZLi4mdodM5PgNmaB2JSfCPV2vwJqqtRWIrCOdWtCntHd/Io22Ka1FYRWAedKTk8sAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAFrXQ3k0m49mD2/URgsykl+5re0elMYWfVbh2p8V346z0vD7epV1OMcrHP+387GO6u6dBrVLDK9Zpb1y3J++D93FERdrJRluzi4y7Hjl256yWq6T0zX2kc9k/RfxIDpHtGEpw3HGUoqed1p4T3cfyda1vKkstNGm2uVVeFh+aLtcLrnu1JvHN8El4tkpoOjdmU7bEu6OW/eRuwdtxpps35xU3YsKTS9DdXH35L1nSrPCOZfh5e8vQtZVUmlkpc3iotptLHX/03XTKMI7mc4XArNa2DtnLbsWM8F14NirmpLMWmu4y+IUJ0prVHCxycbS5p103CWSsAHnmwAAAAAAAAAAAAAAAAAAAAAAAAAotsUU5SeEuLNZ2tt7ebUXhdiNlnY1LqX3dkuX/OTDe39K1jmfL4RO6nadcOvefd/ch9b0ifHdxFd3P3mvX62UjFnJvmz6S38IoU92tT89/lx8j5mv45WqbQ2XlsZev2rKeeLfeRN02+Zeki24HrRgorY8t1ZTeZGJKlMu6TZ6e9Llj9ur+S6oGTpuEZvuf7My+ILVbTXln0eT0vCarje0vN49U0Yca1Lq717jKrgRC2ZOd1d6t3YKEPRw89vB5wk89hMRL2ycaUYtYwljz2W/lv0M3ik1O5nNS1ZbztjG7WPPYyaLXHkSui2lKPJtMholyLLzhGS3PPp150nmLNu0u2397D+DJKjWQnyeH2M0eq9ozdPqn2nkXHhNGe6Wl+X04/Y9y18dqx2k9S8/qbmCF2dtbioyeV+xMp5Pnbq1nby0y4fD7n1NreU7mGqHTldj0AGY1AAAAAAAAAjAAAJAAAAB6iG8EpZNd6Wa/dxVF/i/j/AJ3mrSZmbY1HnLrJdTbx4LkYLPvLK3VChGn1xv8Aj1PzfxC5dzczqdM4X4Lj6nhSz1spbNZlR4ynB6e8vEF0ijB657sLH/tk/gwzx4aafFNYalyaOdaHtKcod016o0Wtb2NeFXnTJP0eSL0+y5eejc7ZY83D0Mcfq4xnP1e7BLJlJd2RtGNOqonP7NOzewsv7KWMe3A0KnF6Fnl47v58l3Od3ViqksLjPZc+XBVHPZ8GXoVy9V/E3CrpXpnznKP4l/bJVPpVplyslPujF/8Aoxe91849i/n9DZ9nWeM+8x+X/I05dnJl6M8Fzbe0I23TsgniSjweE84w+XgYakbI5lFNrHkeNVgqc2oPUk9n3MhXNPgza+jmu85W4v60P5NOyS3RnUbl0V1TypeLX9zF4lbqrbSXVbr8v+jd4PdSoXcN/uyel/nx88G4AA+LP0IAAAAAAAAAAAAAAAFjaFu7VN9keHjjCL5F9KJ400+/d/fP8He1h7SvCHeS/czXlX2VvUqf4xk/RGlSZbkVyZakz74/NYo8kyls8kyhyLJHVIuN45FDZQ5HmQi+CvI3ijIySMFTkYWpl9LV+P8AhmS5GHqZYnCT5KSb8AdaUdyTjI9UyOe0oLr+D/sFtSPY/wBM/wCxGCvsJ9iSc/S9iL0ZGBTdvYlhrhjiZMZENHGcMbGQpF/S3bsoyXNP+TEjIrjIjCezOLzHdco6TGWUmuTSZUY+zZb1Vb7YoyD88nHTJx7Nr0P1KE9cVLuk/UAAqWAAAAAAAAAAAABG9JqnLTTx91xfsT4/AkimcFJOLWU000+tPqOtCp7KpGov6Wn6M43NH21GdL/JNeqwc1kyzORO7b6PzqblDM6+eebiuxo1+w+8oVoVo66byv5z2Z+d1bepbz0VVh/v+HdFMpltyEihnclI9chvFLR4C2CreG8UHqi2CcHuclNsEVNpcihogstijzS7CpRQBI5LsZlcbTFG8CNCZnxtL1U8kXCbbSSbb4JLi2zb+i3RmxuNuoi4Ri1KNcvryfVldXg+Jnubinbw11Hjsur8l/NuXsXoWNS4nopr8+i/E23QQca60+aik/HrMg9PD4CUnJuT5bz6n6BGKilFdNgACCwAAAAAAAAAAAAAAAMbUbPqs4zrhN9rSz7+ZkgmMnF5i8PyIlFSWGsoiJ9FtI/8HHhKxfyWn0R0nqS/UycBpV9dL+7L9T+pmdjav+1H9K+hBfM/SerP9bHzO0nqz/WydBP2hd/Fl6sj3C1+HH0RBfM7SerP9bC6H6X1Z/qZOgfaF18WXqPcLX4cfRED8zdJ6s/1sfM3SepP9bJ4D7Qu/iy9R7ha/Dj6IgfmbpPUn+pnvzO0nqS/UydA+0Lr4svVj3C1+HH0RBfM7Sf6Tf5mXodFNHH/AAE/xSsl+7JcEO+uXzVl+p/UlWVsuKcf0r6GPptDXX9nXCHelFP3mQAZm3J5e7NKSSwgACCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAf/2Q==",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123 Main Street, City",
+      "guardian": {
+        "name": "Sodiq Abdullahi",
+        "relation": "fdfdfdfdf",
+        "phone": 9031896616,
+        "email": "sodiqabdullahi431@gmail.com"
+      },
+      "class": {
+        "name": "junior secondary school 2",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    }
+  ],
+  "students_junior_3": [
+    {
+      "enable": false,
+      "id": 1,
+      "student_id": "ABC 001",
+      "name": "yusuf tunde",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 12,
+      "gender": "male",
+      "grade": "10",
+      "address": "20 unity quarter",
+      "phone": "20 unity quarter",
+      "guardian": {
+        "name": "Sodiq Abdulahi",
+        "relation": "father",
+        "phone": 8083135400,
+        "email": "sodiqabdullahi431@gmail.com"
+      },
+      "class": {
+        "name": "junior secondary school 3",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 2,
+      "student_id": "ABC 002",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMREREREREREBAREREQEBERFhERERAQFhIYGRYTFhYaHysiGhwoHRkWIzQjKCwuMTExGSE3PDcwOyswMS4BCwsLDw4PHBERHDAhHyAwMDAwMDAwMDAwMDAwMDAuLjAwMDAuMDAwLjAwMDAwMDAwMDAwMDAuMDAuMDAwLjAwMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABQIDBAYHAQj/xABBEAACAgEBBAUHCwIFBQEAAAAAAQIDEQQFEiExBkFRYXEHEyJSgZGhFBYjMjNCcoKSscGy0UNEU2Lwk7PS4fEk/8QAGwEBAAMBAQEBAAAAAAAAAAAAAAECBAMFBgf/xAA1EQACAQMDAgMFBwMFAAAAAAAAAQIDBBESITFBUQVhkRMUU6HRFSJxgZKx8EJDUjLB0uHx/9oADAMBAAIRAxEAPwDqQAPFNoAAAAAAAAAAAAAAABY1euqpWbba6l22SjBfFkbZ0v0K/wAzW/w70/6UyVFvhZIylyTIIirpXopctVSvxtw/qSJPT6iFi3q5xsj60GpL3oOLXKCafBcABBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMXau0Iaem2614rqg5y7Xjkl3t4XtJW+yBY2/t2jRVedvsUI8oRXGdkvVhHrfwXWcs6ReU/UXtxofyWnklDDukv90/u/lx4s1vpPtu7W3yvvfPKqr+7VXnhFfy+sg7rD0KVvGH+rdmaU2+OCSu2495yeZzfOU25Sfi2WvnHPuIecu8ttrtNOSmDY6Okj+8kyW2btmO8pVzlTZ1Srk4P3o0bPeV13NcmQMHbdh9O7qsLUr5RV/qwUY3QXa0sKa9z8TfNBrq76421TjZXLlKPxTXNPufE+a9m7enW+Lyjd+h3S1UWqyDfmptK+nqkvXivWXx5GarbKSzDZnSNRrk7ICmE1JKUWnGSTTXJprKZUeeaAAAAAAAAAAAAAAAAAAAAAAAAAAADxvHF8Eub7Dj/AE36YXbQ1K0Gji7KvOKEYRwvPyi8ynJvlFY4dXDLNt8rPSP5LpXVCWLb045XONf3n7eRF+Rvo0qNO9dbH6bUr6LP+Hp88MfixnwUTbb09MfaP8jlL7z0mJszySysxLV6jdzx81Qlw7nZJcfZH2mx6Dya7Nq/y6tfbbKdufY3j4Gz7x7vHZyZZRS6GDpejmlq4V6eiH4a4L+DMhoq1yhFeCSK1M9UyC2WeS0Vb5wg/FJmHqujOjt+10mns/FVW378GeplakSVeTUto+SvZl2cUOmT+9ROcMfleY/A1HbfkavpzZoNQrkuPmbsV2NY5RmvRk/FROuKRUpF0yjRzPyXdM5Sxo9S2pQxVHf9GdVi9FVy7m01x4prHXw6Ucr8r+w/kuoq2nSsV2SVOsUeqT+pZw7UsN9sY9pvXQ7bPyrTQm3myCULO9pcJe1cTJc0v61+f1JhLH3WTQAMh1AAAAAAAAAAAAAAAAAAAAAABF9Ktf5jR329ca5KP4peiviyYrU1FdSG8LJyPplbLam1atPFvdsuVSx92mPGyS8Em/ynY664wjGEUowjFRjFcoxSwkvYcr8lmlTt1O07sxo08HTXNrKlZLjZJdrSwuHrkvrfLBooycYVamxp4yoQivjLPwPVkt8JbI5U2kt3uzfHIxrtqUwe7O6qMvVlOCfubOQ9LfKPbqvo6PO6anHpRThG2x/7pKWcdy9uTTpzb479q/R/5FVT7lpVd9kfS0Lk0mmmnyaeUy4pnG+h3T6rQ0KmyOqte+5OWK3FZSW7Fb3Lh72zYavK7onzjqI+MIv9pFXGXQspxa3Z0RTPbNRGC3pyjCK5uTUV72c8l5YNEuVepl4Qgv3maf0+6XR2lKmVS1NSrUluy3N2W9jjhT58CVF53IlKONnk7lptfVZ9nbXZ+CUZfszJUj5m0e1baWpKyzhxWdzh4POUb90d8r3m69zU1W3Yxu2QcHJLrUvS4/v4ltPYopp7M6X0m2VHWaS/TSx9NVKMW/u2LjCXskov2HMfI5tl13/JrMxk80yi+asi8LPf1ew2TZfle0F04wkr6HJ4TshHdz2ZjJmkdOtNLZm2VqYJqnUTjqYSX1d6T+kSfJ+ll+EkSo6k4vqVk1s10O5gt6W5WQhYuU4RmvCSyi4eTwaAAAAAAAAAAAAAAAAAAAAAAaX5YdUoaDcckvOXVqXbuJSk38EblZPdTfYmzknlW1Up0Sy8+k8/plwNFtDM0+xE1mEn2RvG1Z16vSxp0sJKiVcfNWRgo1bmE4uCeG17DhnSPo/Zo9XOizDbSshJcpQk3h+9New710Shu6DRJclpaP8AtRNO8sWyd75NqkuEHLT2NdSniVbf5lKPjNG7U29zk6cUsnLPNY6i0nxJBxMN1PJOSjR44priSXRzoz8sld9IqoVSSy1vb0m36KWVyS+KI+ySisv/AOnSOhGxXXRCNie/PN1vU1KX1YvvUUslJywtjrSp65YfBz/b+wnpL41OSnGUVNSScd5ceGPFFmUsLgbr5Q9n5jC1L7CW7Prfmp8G/Y8P2mlzh1PmhF5RFSOiTRbqnxw+OTKjVGOZNLimvEtwpxiXP/nULnwbb5IuURf2BsT5TfOW9uV1bk5NLebk+Kil34fE6t0m6TaW3ZWqovjKM/MTVPna3KDuUfo3GSylLexhvBZ8lWwVDRQtsj6eok7VnGVXhRr98Yp/mMzyt0RWyL8JLE6Mf9eC/khTaljoXdOOjL5Jryc6p27L0Um8yVEYS7cwbjx9xsBznyW61w01C+76aa7Y+ekvgdGPPrw0zb75OiWEvwQABxJAAAAAAAAAAAAAAAAAAKbIbya7U0c36fdHLdRVKuvd31LOJNpNYa547zpRav00Z/WWe/rO1KroJWMNPhkX0c0sqtHparMecr09MJ44rejWk8Fzauz69RTZRdHfqti4zjy4dqfU08NPuM+VajGKXJLCLTNmeqKnJtp+S7U1yfye+m6vLx55yrtS6k2ouMn38CNn5PtoZ410Lv8AO8P6Ts0kWJRDmyPZo5r0f8nDhZG3VTjZKDTjVXl1qS5OTf1vDC9pudGn3U+HFvOSTsSSbeElxbfJIi4dItHL6us0r8Lqc/1HN5bO8MQ4MLWaFSc/OJSU04yi+KcWsNM0jafQK1S//NZCVf3a7XJSgvVU0nvLxN/e2dJZNVw1WnnZJ7sYRtqlOUn1JJ5yX/kvEJuIkoz5OX09BddJ4UKfF28P6Sd2H5LpynGetsg4RefM077853Tm0sLuS9pv2mqwZcS+tnL2US/TFRSSSSSSSXBJLkkuwgfKVs6zU7OtopSdk504y8LEbFJ8fYTkGZEtMrIbsm0sp8OD4EZ0rV2Dx1NM6DbDnRTTTNp2RTc93OFmbk/ZxN9LWm0sK1iEcZ5vm34tl0yVamtkt546AAHIgAAAAAAAAYAAAAAAAAAAAABTNZRjyMpFm+BtoS1Rx1RXqY0i1IuyLUi7R0LczB1OzaJvM6KZvtnXCT97RnyLMyCxjUaSqv7Oquv8EIQ/ZF1HkmU7xGCS/BlamYvnCqMyyRBnVvJI0rCRgaGrLJI513pjp7nN7sAAxgAAAAAAAAAAAAAAAAAAAAAAAAHjWT0Exk4vKBi314MaRJSjnmYOrp3ePUb6dWFTyYTZiTkWpsqsmY07DphF0JstuR5K1Ft3IsooZLi4mdodM5PgNmaB2JSfCPV2vwJqqtRWIrCOdWtCntHd/Io22Ka1FYRWAedKTk8sAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAFrXQ3k0m49mD2/URgsykl+5re0elMYWfVbh2p8V346z0vD7epV1OMcrHP+387GO6u6dBrVLDK9Zpb1y3J++D93FERdrJRluzi4y7Hjl256yWq6T0zX2kc9k/RfxIDpHtGEpw3HGUoqed1p4T3cfyda1vKkstNGm2uVVeFh+aLtcLrnu1JvHN8El4tkpoOjdmU7bEu6OW/eRuwdtxpps35xU3YsKTS9DdXH35L1nSrPCOZfh5e8vQtZVUmlkpc3iotptLHX/03XTKMI7mc4XArNa2DtnLbsWM8F14NirmpLMWmu4y+IUJ0prVHCxycbS5p103CWSsAHnmwAAAAAAAAAAAAAAAAAAAAAAAAAotsUU5SeEuLNZ2tt7ebUXhdiNlnY1LqX3dkuX/OTDe39K1jmfL4RO6nadcOvefd/ch9b0ifHdxFd3P3mvX62UjFnJvmz6S38IoU92tT89/lx8j5mv45WqbQ2XlsZev2rKeeLfeRN02+Zeki24HrRgorY8t1ZTeZGJKlMu6TZ6e9Llj9ur+S6oGTpuEZvuf7My+ILVbTXln0eT0vCarje0vN49U0Yca1Lq717jKrgRC2ZOd1d6t3YKEPRw89vB5wk89hMRL2ycaUYtYwljz2W/lv0M3ik1O5nNS1ZbztjG7WPPYyaLXHkSui2lKPJtMholyLLzhGS3PPp150nmLNu0u2397D+DJKjWQnyeH2M0eq9ozdPqn2nkXHhNGe6Wl+X04/Y9y18dqx2k9S8/qbmCF2dtbioyeV+xMp5Pnbq1nby0y4fD7n1NreU7mGqHTldj0AGY1AAAAAAAAAjAAAJAAAAB6iG8EpZNd6Wa/dxVF/i/j/AJ3mrSZmbY1HnLrJdTbx4LkYLPvLK3VChGn1xv8Aj1PzfxC5dzczqdM4X4Lj6nhSz1spbNZlR4ynB6e8vEF0ijB657sLH/tk/gwzx4aafFNYalyaOdaHtKcod016o0Wtb2NeFXnTJP0eSL0+y5eejc7ZY83D0Mcfq4xnP1e7BLJlJd2RtGNOqonP7NOzewsv7KWMe3A0KnF6Fnl47v58l3Od3ViqksLjPZc+XBVHPZ8GXoVy9V/E3CrpXpnznKP4l/bJVPpVplyslPujF/8Aoxe91849i/n9DZ9nWeM+8x+X/I05dnJl6M8Fzbe0I23TsgniSjweE84w+XgYakbI5lFNrHkeNVgqc2oPUk9n3MhXNPgza+jmu85W4v60P5NOyS3RnUbl0V1TypeLX9zF4lbqrbSXVbr8v+jd4PdSoXcN/uyel/nx88G4AA+LP0IAAAAAAAAAAAAAAAFjaFu7VN9keHjjCL5F9KJ400+/d/fP8He1h7SvCHeS/czXlX2VvUqf4xk/RGlSZbkVyZakz74/NYo8kyls8kyhyLJHVIuN45FDZQ5HmQi+CvI3ijIySMFTkYWpl9LV+P8AhmS5GHqZYnCT5KSb8AdaUdyTjI9UyOe0oLr+D/sFtSPY/wBM/wCxGCvsJ9iSc/S9iL0ZGBTdvYlhrhjiZMZENHGcMbGQpF/S3bsoyXNP+TEjIrjIjCezOLzHdco6TGWUmuTSZUY+zZb1Vb7YoyD88nHTJx7Nr0P1KE9cVLuk/UAAqWAAAAAAAAAAAABG9JqnLTTx91xfsT4/AkimcFJOLWU000+tPqOtCp7KpGov6Wn6M43NH21GdL/JNeqwc1kyzORO7b6PzqblDM6+eebiuxo1+w+8oVoVo66byv5z2Z+d1bepbz0VVh/v+HdFMpltyEihnclI9chvFLR4C2CreG8UHqi2CcHuclNsEVNpcihogstijzS7CpRQBI5LsZlcbTFG8CNCZnxtL1U8kXCbbSSbb4JLi2zb+i3RmxuNuoi4Ri1KNcvryfVldXg+Jnubinbw11Hjsur8l/NuXsXoWNS4nopr8+i/E23QQca60+aik/HrMg9PD4CUnJuT5bz6n6BGKilFdNgACCwAAAAAAAAAAAAAAAMbUbPqs4zrhN9rSz7+ZkgmMnF5i8PyIlFSWGsoiJ9FtI/8HHhKxfyWn0R0nqS/UycBpV9dL+7L9T+pmdjav+1H9K+hBfM/SerP9bHzO0nqz/WydBP2hd/Fl6sj3C1+HH0RBfM7SerP9bC6H6X1Z/qZOgfaF18WXqPcLX4cfRED8zdJ6s/1sfM3SepP9bJ4D7Qu/iy9R7ha/Dj6IgfmbpPUn+pnvzO0nqS/UydA+0Lr4svVj3C1+HH0RBfM7Sf6Tf5mXodFNHH/AAE/xSsl+7JcEO+uXzVl+p/UlWVsuKcf0r6GPptDXX9nXCHelFP3mQAZm3J5e7NKSSwgACCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAf/2Q==",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 3",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 3,
+      "student_id": "ABC 003",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 3",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    },
+    {
+      "enable": true,
+      "id": 4,
+      "student_id": "ABC 004",
+      "name": "John Doe",
+      "profile_img": "data:image/jpeg;base64,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",
+      "age": 15,
+      "gender": "Male",
+      "grade": "10",
+      "address": "123 Main Street, City",
+      "phone": "123-456-7890",
+      "guardian": {
+        "name": "Jane Doe",
+        "relation": "Mother",
+        "phone": "987-654-3210",
+        "email": "jane.doe@example.com"
+      },
+      "class": {
+        "name": "junior secondary school 3",
+        "subjects": [
+          {
+            "name": "English Language",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Mathematics",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Basic Technology",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Social Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Business Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Agricultural Science",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Physical and Health Education",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Christian Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Islamic Religious Studies",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "French",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Yoruba",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Hausa",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Igbo",
+            "test": 35,
+            "exam": 40
+          },
+          {
+            "name": "Civic Education",
+            "test": 35,
+            "exam": 40
+          }
+        ]
+      }
+    }
+  ],
+  "add": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ]
+}
